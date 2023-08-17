@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Merge pull request #22 from SkalskiP/patch-1
