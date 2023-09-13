@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Docs partial mdformat improvements (#7378)
