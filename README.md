@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
