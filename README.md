@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
