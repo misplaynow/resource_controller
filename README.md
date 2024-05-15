@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Fix RTDETR generate anchor grid out of boundary (#7247)
