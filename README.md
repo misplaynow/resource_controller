@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
