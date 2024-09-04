@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Update fraction arg to employ a random selection (#8234)
